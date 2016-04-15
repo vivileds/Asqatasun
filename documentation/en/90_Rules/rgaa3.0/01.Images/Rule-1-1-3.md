@@ -16,7 +16,7 @@ This test consists in checking whether each form button is defined with an `"alt
 
 ### Description
 
-Chaque bouton de formulaire (balise `input` avec l'attribut `type="image"`) a-t-il un attribut `alt` ?
+Does each form button (<code>input</code> tag with the <code>type="image"</code> attribute) have an <code>alt</code> attribute?
 
 ### Level
 
